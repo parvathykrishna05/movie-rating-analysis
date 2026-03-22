@@ -6,11 +6,9 @@ __pycache__/
 venv/
 env/
 
-# MovieLens Raw Datasets (Too large for GitHub)
-ratings.csv
-movies.csv
-links.csv
-tags.csv
+# MovieLens Datasets
+# (Actually small enough for GitHub, so we should allow them for Streamlit Cloud deployment!)
+# rankings.csv and others...
 
 # Output plots and reports can be tracked or ignored, 
 # but usually it's fine to keep the plots/ folder and output CSVs to show the result.
