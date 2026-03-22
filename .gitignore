@@ -1,0 +1,16 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# MovieLens Raw Datasets (Too large for GitHub)
+ratings.csv
+movies.csv
+links.csv
+tags.csv
+
+# Output plots and reports can be tracked or ignored, 
+# but usually it's fine to keep the plots/ folder and output CSVs to show the result.
