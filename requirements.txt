@@ -1,4 +1,0 @@
-pandas
-matplotlib
-seaborn
-streamlit>=1.36.0
